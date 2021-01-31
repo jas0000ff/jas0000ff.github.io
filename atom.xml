@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jas0000ff.github.io</id>
-    <title>快乐人jas的储物间</title>
-    <updated>2021-01-31T15:04:06.159Z</updated>
+    <title>白日妄想札记</title>
+    <updated>2021-01-31T15:18:34.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jas0000ff.github.io"/>
     <link rel="self" href="https://jas0000ff.github.io/atom.xml"/>
-    <subtitle>？</subtitle>
+    <subtitle>w</subtitle>
     <logo>https://jas0000ff.github.io/images/avatar.png</logo>
     <icon>https://jas0000ff.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 快乐人jas的储物间</rights>
+    <rights>All rights reserved 2021, 白日妄想札记</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jas0000ff.github.io/post/hello-gridea/</id>
