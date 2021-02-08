@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jas0000ff.github.io</id>
     <title>白日妄想札记</title>
-    <updated>2021-02-08T11:47:07.608Z</updated>
+    <updated>2021-02-08T14:50:00.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jas0000ff.github.io"/>
     <link rel="self" href="https://jas0000ff.github.io/atom.xml"/>
@@ -67,6 +67,7 @@ cond(no)-&gt;op
 <em>xxgsd</em><br>
 1.w</p>
 <figure data-type="image" tabindex="1"><img src="https://jas0000ff.github.io/post-images/1612115059124.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://jas0000ff.github.io/post-images/1612795794511.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
